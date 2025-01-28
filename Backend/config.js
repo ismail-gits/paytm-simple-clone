@@ -1,4 +1,4 @@
-const JWT_SECRET = "smile476245"
+const JWT_SECRET = ""
 
 module.exports = {
   JWT_SECRET
