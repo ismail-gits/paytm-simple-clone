@@ -3,7 +3,6 @@ import { Button } from "../components/Button"
 import { InputBox } from "../components/InputBox"
 import { useState } from "react"
 import axios from "axios"
-import { useSetRecoilState } from "recoil"
 
 export default function Send() {
   const [ amount, setAmount ] = useState("")

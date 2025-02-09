@@ -18,4 +18,4 @@ export default function CheckAuth() {
       navigate('/signin')
     })
   }, [])
-  }
+}
